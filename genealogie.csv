@@ -1,0 +1,657 @@
+Branche,Numéro,Nom,Prénom (premier),Genre,Date de naissance,Lieu de naissance,Code postale Naissance,Date de Mariage,Lieu de mariage,Code postal Mariage,Date de Décès,Lieu de Décès,Code postal Décès,Commentaire
+A,1,Bétin,Pierre,Masculin,21/11/1936,Savigny sur Orge,91600,26/03/1960,Paris 09,75009,,,,
+A,2,Bétin,Henri,Masculin,08/10/1907,Civray,86400,10/11/1934,Savigny sur Orge,91600,31/05/1999,Fontenay aux Roses,92260,
+A,3,Sahuc,Andrée,Féminin,27/09/1909,Paris 10,75010,10/11/1934,Savigny sur Orge,91600,07/02/2015,Villenave d Ornon,33140,
+A,4,Bétin,Henri,Masculin,06/03/1877,Civray,86400,01/07/1905,Paris 19,75019,05/03/1915,Villeneuve St Germain,2200,
+A,5,André,Catherine,Féminin,24/06/1881,Garchizy,58600,01/07/1905,Paris 19,75019,26/08/1963,Paris 19,75019,
+A,6,Sahuc,Camille,Masculin,07/12/1877,St Christophe Vallon,12330,10/10/1908,Espeyroux,46120,09/03/1965,Morangis,91420,
+A,7,Pradayrol,Sidonie,Féminin,17/01/1884,Espeyroux,46120,10/10/1908,Espeyroux,46120,07/07/1969,Morangis,91420,
+A,8,Bétin,Léger,Masculin,12/06/1841,La Couronne,16400,20/01/1864,Civray,86400,25/02/1912,Civray,86400,
+A,9,Debenest,Marie,Féminin,09/03/1840,Civray,86400,20/01/1864,Civray,86400,26/09/1919,Civray,86400,
+A,10,André,Gervais,Masculin,05/02/1846,Beaumont La Ferriere,58700,02/02/1878,Garchizy,58600,20/07/1897,Paris 10,75010,
+A,11,L'Herbier,Françoise,Féminin,05/01/1857,Garchizy,58600,02/02/1878,Garchizy,58600,20/11/1881,Garchizy,58600,
+A,12,Sahuc,François,Masculin,17/07/1834,St Christophe Vallon,12330,12/11/1865,St Christophe Vallon,12330,21/10/1918,St Christophe Vallon,12330,
+A,13,Delphieux,Julie,Féminin,01/03/1847,St Christophe Vallon,12330,12/11/1865,St Christophe Vallon,12330,14/08/1930,St Christophe Vallon,12330,
+A,14,Pradayrol,Baptiste,Masculin,31/03/1848,St Maurice en Quercy,46120,02/03/1878,Molieres,46120,30/12/1926,Espeyroux,46120,
+A,15,Landes,Noémie,Féminin,08/10/1857,Molieres,46120,02/03/1878,Molieres,46120,05/02/1935,Lacapelle Marival,46120,
+A,16,Bétin,Léger,Masculin,29/10/1801,Champagne Le Sec,86510,21/01/1835,St Michel,16470,27/11/1863,Savigne,86400,
+A,17,Gendreau,Françoise,Féminin,18/12/1815,St Saviol,86400,21/01/1835,St Michel,16470,04/12/1863,Savigne,86400,
+A,18,Debenest,Jean,Masculin,08/02/1813,St Pierre d Exideuil,86400,05/06/1839,Civray,86400,04/12/1891,Civray,86400,
+A,19,Bernard,Françoise,Féminin,05/01/1818,Civray,86400,05/06/1839,Civray,86400,06/04/1899,Poitiers,86000,
+A,20,André,Jacques,Masculin,01/12/1811,Nevers,58000,29/08/1842,Beaumont La Ferriere,58700,20/12/1879,Garchizy,58600,
+A,21,Roumy,Marie,Féminin,27/12/1816,Beaumont La Ferriere,58700,29/08/1842,Beaumont La Ferriere,58700,29/06/1883,Nevers,58000,
+A,22,L'Herbier,Philippe,Masculin,13/11/1818,Garchizy,58600,05/11/1855,Garchizy,58600,22/06/1882,Garchizy,58600,
+A,23,Ragoux,Louise,Féminin,02/01/1819,Druy Parigny,58160,05/11/1855,Garchizy,58600,20/05/1882,Garchizy,58600,
+A,24,Sahuc,Augustin,Masculin,15/01/1792,St Christophe Vallon,12330,10/02/1828,St Christophe Vallon,12330,26/02/1871,St Christophe Vallon,12330,
+A,25,Aussibal,Rose,Féminin,05/01/1800,St Christophe Vallon,12330,10/02/1828,St Christophe Vallon,12330,20/07/1853,St Christophe Vallon,12330,
+A,26,Delphieux,Joseph,Masculin,21/09/1809,St Christophe Vallon,12330,11/02/1844,St Christophe Vallon,12330,09/05/1856,Escandolieres,12390,Mort tombé dans un puit en voulant couper à travers champs
+A,27,Babec,Rose,Féminin,12/09/1818,St Christophe Vallon,12330,11/02/1844,St Christophe Vallon,12330,11/10/1857,St Christophe Vallon,12330,
+A,28,Pradayrol,Antoine,Masculin,15/08/1807,St Maurice en Quercy,46120,21/11/1839,St Maurice en Quercy,46120,27/09/1855,St Maurice en Quercy,46120,
+A,29,Landes,Julie,Féminin,08/12/1811,St Maurice en Quercy,46120,21/11/1839,St Maurice en Quercy,46120,22/04/1882,Espeyroux,46120,
+A,30,Landes,Jean,Masculin,09/04/1818,Molieres,46120,02/02/1850,Bannes,46400,15/11/1892,Molieres,46120,
+A,31,Lafeuille,Marie,Féminin,22/11/1829,Saignes,46500,02/02/1850,Bannes,46400,12/01/1891,Molieres,46120,
+A,32,Bétin,Joseph,Masculin,08/03/1777,Magne,86160,17/04/1798,Champagne St Hilaire,86160,12/08/1822,Blanzay,86400,
+A,33,Sandillau,Anne,Féminin,17/02/1775,Chateau Larcher,86370,17/04/1798,Champagne St Hilaire,86160,02/04/1812,Champagne Le Sec,86510,
+A,34,Gendreau,Pierre,Masculin,14/02/1783,Civray,86400,01/03/1802,St Pierre d Exideuil,86400,21/12/1828,Linazay,86400,
+A,35,Chevalier,Françoise,Féminin,27/11/1780,Blanzay,86400,01/03/1802,St Pierre d Exideuil,86400,08/12/1828,Linazay,86400,
+A,36,Debenest,Jacques,Masculin,10/03/1778,Linazay,86400,01/10/1804,Blanzay,86400,18/02/1866,Civray,86400,"Il a fait les guerres révolutionnaires et de l'Empire, sous le Général Moreau (rival de Bonaparte). Il a déserté lorsque le Directoire l'a affecté dans l'armée de Bonaparte pour l'Italie. A reçu la Médaille de St Hélène de la main directe de Napoléon III à Civray"
+A,37,Vincent,Anne,Féminin,09/06/1782,Blanzay,86400,01/10/1804,Blanzay,86400,11/02/1848,St Pierre d Exideuil,86400,
+A,38,Bernard,Jean,Masculin,09/11/1766,Epenede,16490,14/11/1816,St Pierre d Exideuil,86400,23/01/1839,Civray,86400,2nd mariage
+A,39,Chevalier,Jeanne,Féminin,28/10/1776,Blanzay,86400,14/11/1816,St Pierre d Exideuil,86400,07/071839,Civray,86400,Sœur de A000035 (Françoise Chevalier)
+A,40,,,Masculin,,,,,,#N/D,,,#N/D,Inconnu (A000020 - Jacques André ; fils déposé au couvent)
+A,41,,,Féminin,,,,0,0,#N/D,,,#N/D,Inconnu (A000020 - Jacques André ; fils déposé au couvent)
+A,42,Roumy,Joachim,Masculin,01/07/1787,Beaumont La Ferriere,58700,27/02/1816,Beaumont La Ferriere,58700,26/03/1821,Beaumont La Ferriere,58700,
+A,43,Daugy,Anne,Féminin,22/03/1796,Beaumont La Ferriere,58700,27/02/1816,Beaumont La Ferriere,58700,,,#N/D,"Date de mort inconnue, se remarie le 15/09/1834 à Beaumont la Ferriere"
+A,44,L'Herbier,Jacques,Masculin,13/08/1786,Garchizy,58600,29/11/1809,Garchizy,58600,18/03/1835,Garchizy,58600,
+A,45,Gandat,Philippe,Féminin,27/01/1794,Germigny sur Loire,58320,29/11/1809,Garchizy,58600,02/03/1828,Garchizy,58600,Philippe était alors un prénom mixte courant (comme Camille) 
+A,46,Ragoux,Jean,Masculin,15/04/1776,Druy Parigny,58160,08/01/1801,Druy Parigny,58160,18/03/1826,Druy Parigny,58160,
+A,47,Bureau,Marie,Féminin,22/02/1781,St Ouen sur Loire,58160,08/01/1801,Druy Parigny,58160,15/07/1833,Druy Parigny,58160,
+A,48,Sahuc,François,Masculin,24/05/1750,St Christophe Vallon,12330,11/06/1787,Panat,12430,30/03/1825,St Christophe Vallon,12330,"Avait 13 frères et sœurs, a eu 9 enfants
+Papy a rencontré le Comte de Panat durant les recherches à Panat, qu'il l'a invité à diner"
+A,49,Cazottes,Angélique,Féminin,05/07/1760,Panat,,11/06/1787,Panat,12430,29/12/1825,St Christophe Vallon,12330,"a eu 9 enfants
+Papy a rencontré le Comte de Panat durant les recherches à Panat, qu'il l'a invité à diner"
+A,50,Aussibal,Amans,Masculin,02/01/1760,St Christophe Vallon,12330,12/01/1796,St Christophe Vallon,12330,26/08/1831,St Christophe Vallon,12330,Propriétaire Cultivateur
+A,51,Aurejac,Anne,Féminin,25/05/1760,St Christophe Vallon,12330,12/01/1796,St Christophe Vallon,12330,19/03/1820,St Christophe Vallon,12330,
+A,52,Delphieux,Joseph,Masculin,27/01/1763,St Christophe Vallon,12330,16/02/1802,Testet,12330,09/03/1849,St Christophe Vallon,12330,
+A,53,Feral,Françoise,Féminin,19/03/1773,St Christophe Vallon,12330,16/02/1802,Testet,12330,25/04/1848,St Christophe Vallon,12330,
+A,54,Babec,Pierre,Masculin,26/07/1783,St Christophe Vallon,12330,21/11/1813,St Christophe Vallon,12330,16/05/1865,St Christophe Vallon,12330,
+A,55,Gaffuer,Rose,Féminin,13/11/1792,Bruejouls,12330,21/11/1813,St Christophe Vallon,12330,13/05/1860,St Christophe Vallon,12330,
+A,56,Pradayrol,Jean,Masculin,08/10/1771,St Maurice en Quercy,46120,30/06/1797,Molieres,46120,20/12/1838,St Maurice en Quercy,46120,"2ème mariage, même nom que sa femme, mais pas de liens familiaux"
+A,57,Pradayrol,Marie,Féminin,14/08/1767,Molieres,46120,30/06/1797,Molieres,46120,11/05/1841,St Maurice en Quercy,46120,"Même nom que son mari, mais pas de liens familiaux"
+A,58,Landes,Jacques,Masculin,31/10/1766,Terrou,46120,15/06/1797,Aynac,46120,24/09/1846,St Maurice en Quercy,46120,Date de mariage est celle de l'acte notarié
+A,59,Carrié,Christine,Féminin,05/01/1778,St Maurice en Quercy,46120,15/06/1797,Aynac,46120,07/11/1860,St Maurice en Quercy,46120,Date de mariage est celle de l'acte notarié
+A,60,Landes,Jean,Masculin,06/09/1787,Molieres,46120,27/02/1808,Molieres,46120,10/05/1867,Molieres,46120,
+A,61,Descargues,Marie,Féminin,20/07/1784,Molieres,46120,27/02/1808,Molieres,46120,28/04/1869,Molieres,46120,
+A,62,Lafeuille,Antoine,Masculin,24/01/1797,Rueyres,46120,25/05/1827,St Vincent du Pendit,46400,04/10/1854,Bannes,46400,
+A,63,Cayre Castel,Antoinette,Féminin,23/10/1799,St Vincent du Pendit,46400,25/05/1827,St Vincent du Pendit,46400,,,#N/D,Date de décès inconnue
+A,64,Bétin,François,Masculin,18/10/1737,Champagne St Hilaire,86160,19/01/1761,Champagne St Hilaire,86160,20/08/1794,Magne,86160,
+A,65,Vécant,Jeanne,Féminin,23/02/1742,Anche,86700,19/01/1761,Champagne St Hilaire,86160,01/09/1794,Magne,86160,
+A,66,Sandillau,Jacques,Masculin,30/08/1717,Aslonnes,86340,04/02/1760,Aslonnes,86340,17/09/1774,Chateau Larcher,86370,2ème mariage
+A,67,Marsault,Anne,Féminin,18/10/1732,Marnay,86160,04/02/1760,Aslonnes,86340,13/10/1799,Aslonnes,86340,
+A,68,Gendreau,Jean,Masculin,28/02/1757,St Saviol,86400,05/07/1779,Civray,86400,16/08/1813,Linazay,86400,A eu 9 enfants
+A,69,Bernardeau,Anne,Féminin,30/12/1757,Blanzay,86400,05/07/1779,Civray,86400,22/02/1815,Linazay,86400,A eu 9 enfants
+A,70,Chevalier,Pierre,Masculin,,,,20/10/1773,Civray,86400,23/03/1807,St Pierre d Exideuil,86400,"Date de naissance inconnue, profession : domestique, a eu 8 enfants"
+A,71,Moreau,Jeanne,Féminin,25/02/1750,Civray,86400,20/10/1773,Civray,86400,16/10/1801,St Pierre d Exideuil,86400,a eu 8 enfants
+A,72,Debenest,Jean,Masculin,24/12/1735,Civray,86400,10/10/1764,Civray,86400,18/12/1799,Savigne,86400,a eu 11 enfants
+A,73,Bouyer,Magdelaine,Féminin,21/07/1748,Civray,86400,10/10/1764,Civray,86400,24/06/1814,Villaret (Blanzay),86400,a eu 11 enfants
+A,74,Vincent,André,Masculin,03/10/1745,Blanzay,86400,12/11/1766,Blanzay,86400,11/12/1782,Blanzay,86400,a eu 7 enfants
+A,75,Monjouan,Louise,Féminin,19/01/1748,Villaret (Blanzay),86400,12/11/1766,Blanzay,86400,07/03/1810,St Pierre d Exideuil,86400,a eu 7 enfants
+A,76,Bernard,Jean,Masculin,12/12/1734,Epenede,16490,28/01/1764,Epenede,16490,07/01/1768,Epenede,16490,
+A,77,Moreau,Anne,Féminin,22/06/1743,Epenede,16490,28/01/1764,Epenede,16490,03/10/1811,Charroux,86250,S'est remariée ensuite en 1769 à Epenede
+A,78,,,Masculin,,,,,,,,,,
+A,79,,,Féminin,,,,,,,,,,
+A,80,,,Masculin,,,,,,,,,,
+A,81,,,Féminin,,,,,,,,,,
+A,82,,,Masculin,,,,,,,,,,
+A,83,,,Féminin,,,,,,,,,,
+A,84,Roumy,Louis,Masculin,05/05/1753,Beaumont La Ferriere,58700,07/02/1774,St Aubin Les Forges,58130,06/11/1805,Beaumont La Ferriere,58700,"a eu 11 enfants, boucher de profession"
+A,85,Main,Anne,Féminin,26/06/1755,Beaumont La Ferriere,58700,07/02/1774,St Aubin Les Forges,58130,07/04/1803,Beaumont La Ferriere,58700,a eu 11 enfants
+A,86,Daugy,Jean,Masculin,04/05/1755,St Aubin Les Forges,58130,07/05/1792,Beaumont La Ferriere,58700,29/07/1826,Beaumont La Ferriere,58700,
+A,87,Chalmet,Magdelaine,Féminin,12/02/1762,Dompierre sur Nievre,58350,07/05/1792,Beaumont La Ferriere,58700,25/01/1834,Beaumont La Ferriere,58700,
+A,88,L'Herbier,Gilbert,Masculin,24/02/1740,Garchizy,58600,05/02/1776,Garchizy,58600,20/10/1804,Garchizy,58600,
+A,89,Boutard,Marie,Féminin,16/03/1749,Marzy,58180,05/02/1776,Garchizy,58600,21/09/1823,Garchizy,58600,
+A,90,Gandat,Michel,Masculin,09/05/1748,Germigny sur Loire,58320,19/06/1786,Germigny sur Loire,58320,23/09/1798,Germigny sur Loire,58320,2nd mariage (1er en 1777)
+A,91,Bossu,Anne,Féminin,14/05/1756,Pougues les Eaux,58320,19/06/1786,Germigny sur Loire,58320,15/01/1808,Germigny sur Loire,58320,S'est remariée en 1803
+A,92,Ragoux,Edme,Masculin,16/04/1752,Druy,58160,10/01/1775,Druy,58160,25/02/1792,Druy,58160,S'est remarié en 1786
+A,93,Larible,Marie,Féminin,26/02/1750,Rouy,58110,10/01/1775,Druy,58160,11/08/1780,Druy,58160,
+A,94,Bureau,Annet,Masculin,19/09/1730,St Ouen sur Loire,58160,10/10/1769,Sardolles,58270,12/11/1782,St Ouen sur Loire,58160,"3ème mariage (1752, 1766)"
+A,95,Renault,Marie,Féminin,03/01/1743,Thianges,58260,10/10/1769,Sardolles,58270,28/01/1799,St Ouen sur Loire,58160,2nd mariage (1767)
+A,96,Sahuc,Martin,Masculin,04/09/1727,Clairvaux d Aveyron,12330,26/02/1748,Valady,12330,06/09/1797,St Christophe Vallon,12330,a eu 14 enfants
+A,97,Campredon,Marianne,Féminin,14/05/1727,Valady,12330,26/02/1748,Valady,12330,10/06/17985,St Christophe Vallon,12330,a eu 14 enfants
+A,98,Cazottes,François,Masculin,14/03/1726,Panat,12430,01/10/1754,Flavin,12450,26/02/1802,Clairvaux d Aveyron,12330,a eu 11 enfants
+A,99,Layrac,Catherine,Féminin,,,,01/10/1754,Flavin,12450,19/05/1809,Clairvaux d Aveyron,12330,"Date de naissance inconnue, a eu 11 enfants"
+A,100,Aussibal,Michel,Masculin,,,,25/09/1743,St Christophe Vallon,12330,26/07/1772,St Christophe Vallon,12330,"Date de naissance inconnue, a eu 10 enfants"
+A,101,Rosieres,Anne,Féminin,,,,25/09/1743,St Christophe Vallon,12330,20/03/1801,St Christophe Vallon,12330,"Date de naissance inconnue, père inconnu, a eu 10 enfants"
+A,102,Aurejac,François,Masculin,12/02/1721,Glassac,12330,03/11/1750,St Christophe Vallon,12330,15/06/1776,St Christophe Vallon,12330,a eu 9 enfants
+A,103,Bouissou,Anne,Féminin,04/04/1730,St Christophe Vallon,12330,03/11/1750,St Christophe Vallon,12330,10/10/1817,St Christophe Vallon,12330,a eu 9 enfants
+A,104,Delphieux,Pierre,Masculin,11/02/1720,Ste Austremoine,12330,23/01/1753,St Christophe Vallon,12330,04/03/1805,St Christophe Vallon,12330,a eu 10 enfants
+A,105,Palayret,Marianne,Féminin,26/07/1728,St Christophe Vallon,12330,23/01/1753,St Christophe Vallon,12330,29/09/1772,St Christophe Vallon,12330,a eu 10 enfants
+A,106,Feral,Antoine,Masculin,07/09/1736,St Christophe Vallon,12330,03/03/1772,Ste Austremoine,12330,23/06/1811,St Christophe Vallon,12330,a eu 9 enfants
+A,107,Portal,Anne,Féminin,24/10/1750,Ste Austremoine,12330,03/03/1772,Ste Austremoine,12330,31/12/1781,St Christophe Vallon,12330,a eu 9 enfants
+A,108,Babec,Pierre,Masculin,04/08/1749,St Christophe Vallon,12330,24/08/1779,St Christophe Vallon,12330,20/05/1803,St Christophe Vallon,12330,a eu 7 enfants
+A,109,Bournhounesques,Marie,Féminin,28/03/1757,St Christophe Vallon,12330,24/08/1779,St Christophe Vallon,12330,22/12/1819,St Christophe Vallon,12330,a eu 7 enfants
+A,110,Gaffuer,Raymond,Masculin,09/06/1754,Bruejouls,12330,10/05/1785,Bruejouls,12330,11/01/1826,Clairvaux d Aveyron,12330,2nd mariage (1781)
+A,111,Cuoc,Magdelaine,Féminin,16/03/1753,Bruejouls,12330,10/05/1785,Bruejouls,12330,30/12/1818,Clairvaux d Aveyron,12330,
+A,112,Pradayrol,Bernard,Masculin,06/03/1738,St Maurice en Quercy,46120,06/07/1767,Molieres,46120,29/09/1798,St Maurice en Quercy,46120,Date d'acte notarié pour le décès
+A,113,Ricros,Jeanne,Féminin,08/02/1735,Molieres,46120,06/07/1767,Molieres,46120,28/09/1801,St Maurice en Quercy,46120,
+A,114,Pradayrol,Jean,Masculin,,,,29/11/1758,Molieres,46120,06/10/1767,Molieres,46120,Date de naissance inconnue
+A,115,Cadieregues,Jeanne,Féminin,22/09/1734,Molieres,46120,29/11/1758,Molieres,46120,29/05/1810,Molieres,46120,
+A,116,Landes,Jean,Masculin,24/08/1733,Molieres,46120,31/01/1756,Terrou,46120,29/05/1817,Terrou,46120,a eu 13 enfants
+A,117,Verniere,Louise,Féminin,13/06/1734,Gorses,46210,31/01/1756,Terrou,46120,05/10/1799,Terrou,46120,a eu 13 enfants ; la date de décès est celle de l'acte notarié
+A,118,Carrié,Daniel,Masculin,23/06/1745,St Maurice en Quercy,46120,05/02/1777,St Maurice en Quercy,46120,14/01/1824,Leyme,46120,
+A,119,Delprat,Marie,Féminin,07/12/1746,Aynac,46120,05/02/1777,St Maurice en Quercy,46120,06/01/1830,Leyme,46120,
+A,120,Landes,Pierre,Masculin,05/11/1742,Molieres,46120,04/02/1783,Bouxal,46210,29/10/1788,Molieres,46120,
+A,121,Laborie,Thérèse,Féminin,15/10/1756,Bouxal,46210,04/02/1783,Bouxal,46210,30/04/1827,Molieres,46120,
+A,122,Descargues,Jean,Masculin,15/01/1752,Terrou,46120,28/10/1783,Molieres,46210,06/06/1835,Lacapelle Marival,46120,S'est remarié en 1791
+A,123,Baylé,Toinette,Féminin,29/06/1757,Molieres,46120,28/10/1783,Molieres,46210,28/05/1789,Molieres,46120,avait 10 frères et sœurs
+A,124,Lafeuille,Antoine,Masculin,,,,23/09/1772,Rueyres,46120,19/01/1820,Rueyres,46120,"a eu 11 enfants, pas d'acte de naissance"
+A,125,Brunet,Perrette,Féminin,27/08/1756,Rueyres,46120,23/09/1772,Rueyres,46120,15/10/1824,Rueyres,46120,a eu 11 enfants
+A,126,Cayre Castel,Jean,Masculin,06/07/1765,Bannes,46400,18/02/1798,Cornac,46130,04/10/1836,St Vincent du Pendit,46400,
+A,127,Lacaze,Marianne,Féminin,13/03/1777,Cornac,46130,18/02/1798,Cornac,46130,28/08/1834,St Vincent du Pendit,46400,
+A,128,Bétin,Pierre,Masculin,22/05/1699,Romagne,86700,,,,11/08/1766,Champagne St Hilaire,86160,"Les archives de Champgne St Hilaire ont brûlées à la Libération, dont celles contenant son acte de mariage"
+A,129,Grimault,Marie,Féminin,,,,,,,04/02/1750,Champagne St Hilaire,86160,"Pas d'acte de naissance, ni mariage (archives brûlées à la Libération)"
+A,130,Vécant,Antoine,Masculin,06/03/1684,Magne,86160,05/05/1732,Magne,86160,05/08/1747,Champagne St Hilaire,86160,
+A,131,Faure,Françoise,Féminin,,,,05/05/1732,Magne,86160,18/10/1762,St Macoux,86400,"Pas d'acte de naissance, s'est remariée en 1752"
+A,132,Sandillau,François,Masculin,13/09/1680,Andille,86340,07/11/1707,Aslonnes,86340,02/10/1748,Aslonnes,86340,a eu 8 enfants
+A,133,Genard,Françoise,Féminin,13/09/1686,Aslonnes,86340,07/11/1707,Aslonnes,86340,19/02/1757,Aslonnes,86340,A eu 8 enfants
+A,134,Marsault,Pierre,Masculin,24/02/1705,Marnay,86160,05/11/1726,Marnay,86160,,,#N/D,Pas d'acte de décet
+A,135,Chartier,Marie,Féminin,20/04/1702,Anche,86700,05/11/1726,Marnay,86160,21/04/1760,Aslonnes,86340,
+A,136,Gendreau,Pierre,Masculin,21/03/1735,Savigne,86400,26/01/1756,St Saviol,86400,14/09/1786,St Saviol,86400,Pas d'acte de naissance
+A,137,Gayet,Jeanne,Féminin,,,,26/01/1756,St Saviol,86400,,,#N/D,"Pas d'acte de décet, s'est remariée en 1788"
+A,138,Bernardeau,Denis,Masculin,07/11/1723,Blanzay,86400,14/02/1746,Blanzay,86400,04/04/1803,Blanzay,86400,A eu 9 enfants
+A,139,Pautrot,Françoise,Féminin,09/02/1730,St Romain,86250,14/02/1746,Blanzay,86400,01/02/1789,St Romain,86250,A eu 9 enfants
+A,140,Chevalier,Jean,Masculin,23/06/1705,Chatain,86250,25/06/1732,St Clementin (Civray),86400,29/05/1767,St Clementin (Civray),86400,
+A,141,Sauvestre,Marie,Féminin,,,,25/06/1732,St Clementin (Civray),86400,17/05/1765,St Clementin (Civray),86400,Pas d'acte de naissance
+A,142,Moreau,Pierre,Masculin,14/02/1720,Villaret (Blanzay),86400,05/11/1742,Civray,86400,14/06/1767,Civray,86400,
+A,143,Lairaud,Anne,Féminin,18/01/1720,Civray,86400,05/11/1742,Civray,86400,24/11/1788,St Pierre d Exideuil,86400,
+A,144,Debenest,Pierre,Masculin,05/05/1705,Savigne,86400,25/11/1733,Civray,86400,08/06/1783,Civray,86400,A eu 10 enfants
+A,145,Bonnin,Marie,Féminin,17/10/1713,Civray,86400,25/11/1733,Civray,86400,09/05/1793,St Pierre d Exideuil,86400,A eu 10 enfants
+A,146,Bouyer,Pierre,Masculin,03/01/1713,St Saviol,86400,04/10/1747,Civray,86400,23/04/1783,Linazay,86400,2nd mariage (1743)
+A,147,Pissard,Marie,Féminin,,,,04/10/1747,Civray,86400,24/04/1787,Savigne,86400,Pas d'acte de naissance
+A,148,Vincent,Gabriel,Masculin,28/02/1716,Blanzay,86400,02/06/1740,Blanzay,86400,11/05/1785,Blanzay,86400,a eu 10 enfants
+A,149,Minereau,Marie,Féminin,17/04/1724,Blanzay,86400,02/06/1740,Blanzay,86400,15/09/1782,Blanzay,86400,a eu 10 enfants
+A,150,Monjouan,Jacques,Masculin,,,,27/10/1734,Blanzay,86400,20/10/1766,Villaret (Blanzay),86400,"a eu 7 enfants, 2nd mariage (1731)"
+A,151,Pautrot,Louise,Féminin,31/07/1704,Blanzay,86400,27/10/1734,Blanzay,86400,31/10/1764,Villaret (Blanzay),86400,a eu 7 enfants
+A,152,Bernard,Jean,Masculin,27/11/1701,Pressac,86460,01/02/1734,Epenede,16490,29/03/1778,Epenede,16490,a eu 8 enfants
+A,153,De Souhent,Jeanne,Féminin,,,,01/02/1734,Epenede,16490,25/12/1780,Epenede,16490,"Pas d'acte de naissance, a eu 8 enfants"
+A,154,Moreau,Jean,Masculin,05/06/1697,Epenede,16490,,,,31/10/1754,Epenede,16490,"Pas d'acte de mariage, a eu 10 enfants"
+A,155,Landon,Antoinette,Féminin,,,,,,,19/01/1768,Epenede,16490,"Pas d'acte de naissance, pas d'acte de mariage, a eu 10 enfants"
+A,156,,,Masculin,,,,,,,,,,
+A,157,,,Féminin,,,,,,,,,,
+A,158,,,Masculin,,,,,,,,,,
+A,159,,,Féminin,,,,,,,,,,
+A,160,,,Masculin,,,,,,,,,,
+A,161,,,Féminin,,,,,,,,,,
+A,162,,,Masculin,,,,,,,,,,
+A,163,,,Féminin,,,,,,,,,,
+A,164,,,Masculin,,,,,,,,,,
+A,165,,,Féminin,,,,,,,,,,
+A,166,,,Masculin,,,,,,,,,,
+A,167,,,Féminin,,,,,,,,,,
+A,168,Roumy,Marc,Masculin,01/12/1717,Giry,58700,06/06/1746,Beaumont La Ferriere,58700,,,,Pas d'acte de décès
+A,169,Gautier,Marie,Féminin,,,,06/06/1746,Beaumont La Ferriere,58700,21/11/1789,St Aubin les Forges,58130,"Pas d'acte de naissance, 2nd mariage (1734, 1774)"
+A,170,Main,Gilbert,Masculin,08/10/1726,Beaumont La Ferriere,58700,27/07/1750,St Aubin Les Forges,58130,11/01/1781,Beaumont La Ferriere,58700,"S'est remarié ensuite (????, 1769), cabaretier de profession, il était parrain de la moitié des naissance de Beaumont La Ferriere, car il offrait le vin pour la sortie de messe"
+A,171,Pouzé,Marie,Féminin,19/03/1728,St Aubin Les Forges,58130,27/07/1750,St Aubin Les Forges,58130,14/06/1758,Beaumont La Ferriere,58700,
+A,172,Daugy,Jean,Masculin,09/07/1729,Beaumont La Ferriere,58700,27/09/1756,Beaumont La Ferriere,58700,24/04/1799,Beaumont La Ferriere,58700,S'est remarié ensuite (1779)
+A,173,Bontemps,Anne,Féminin,17/11/1723,Beaumont La Ferriere,58700,27/09/1756,Beaumont La Ferriere,58700,09/08/1767,Beaumont La Ferriere,58700,2nd mariage (????)
+A,174,Chalmet,Jean,Masculin,02/03/1734,Premery,58700,20/02/1753,Dompierre sur Nievre,58350,16/03/1780,Dompierre sur Nievre,58350,
+A,175,Teziere,Jeanne,Féminin,,,,20/02/1753,Dompierre sur Nievre,58350,08/10/1787,Dompierre sur Nievre,58350,Pas d'acte de naissance
+A,176,L'Herbier,Louis,Masculin,,,,11/02/1727,Garchizy,58600,25/10/1741,Garchizy,58600,"2nd mariage (1719), 6 enfants"
+A,177,Grenetier,Françoise,Féminin,03/12/1704,Marzy,58180,11/02/1727,Garchizy,58600,22/09/1782,Marzy,58180,"2nd mariage (????, 1744), 6 enfants"
+A,178,Boutard,Pierre,Masculin,24/09/1719,Soulangy (Germigny sur Loire),58320,22/07/1743,Meauce,58470,,,#N/D,"Pas d'acte de décès, 7 enfants"
+A,179,Bled,Marie,Féminin,,,,22/07/1743,Meauce,58470,,,#N/D,"Pas d'acte de naissance ni de décès, 7 enfants"
+A,180,Gandat,Philippe,Masculin,23/07/1717,Germigny sur Loire,58320,27/11/1742,Germigny sur Loire,58320,30/01/1782,Germigny sur Loire,58320,a eu 9 enfants
+A,181,Protat,Anne,Féminin,14/07/1721,Germigny sur Loire,58320,27/11/1742,Germigny sur Loire,58320,07/02/1774,Germigny sur Loire,58320,a eu 9 enfants
+A,182,Auboussu,Jean,Masculin,02/07/1716,Commagny,58290,02/07/1743,Pougues les Eaux,58320,07/06/1787,Pougues les Eaux,58320,
+A,183,Deboux,Antoinette,Féminin,09/03/1716,Pougues les Eaux,58320,02/07/1743,Pougues les Eaux,58320,03/12/1758,Garchizy,58600,
+A,184,Ragoux,François,Masculin,15/02/1727,Parigny,58160,16/02/1751,Parigny,58160,26/03/1768,Druy,58160,a eu 8 enfants
+A,185,Merisier,Marie,Féminin,,,,16/02/1751,Parigny,58160,26/11/1770,Druy,58160,"Pas d'acte de naissance, a eu 8 enfants"
+A,186,Larible,Jacques,Masculin,20/05/1715,Rouy,58110,20/06/1741,Rouy,58110,30/05/1777,Druy,58160,
+A,187,Canot,Marguerite,Féminin,21/02/1709,Rouy,58110,20/06/1741,Rouy,58110,07/02/1779,Druy,58160,
+A,188,Bureau,Michel,Masculin,28/02/1706,St Ouen sur Loire,58160,27/01/1728,St Ouen sur Loire,58160,27/02/1755,St Ouen sur Loire,58160,
+A,189,Thomas,Françoise,Féminin,,,,27/01/1728,St Ouen sur Loire,58160,30/12/1764,St Ouen sur Loire,58160,"Pas d'acte de naissance, s'est remariée ensuite (1756)"
+A,190,Renault,Joseph,Masculin,02/12/1707,Anlezy,58270,03/04/1731,Champvert,58300,06/11/1778,Anlezy,58270,a eu au moins 10 enfants
+A,191,Jacquier,Marguerite,Féminin,27/04/1716,Champvert,58300,03/04/1731,Champvert,58300,,,,"Pas d'acte de décès, mariée à 15 ans, au moins 10 enfants"
+A,192,Sahuc,Martin,Masculin,11/11/1692,Valady,12330,06/02/1725,Clairvaux d Aveyron,12330,26/09/1766,Clairvaux d Aveyron,12330,
+A,193,Gisard,Marie,Féminin,19/01/1703,Clairvaux d Aveyron,12330,06/02/1725,Clairvaux d Aveyron,12330,,,,Pas d'acte de décès
+A,194,Campredon,François,Masculin,02/02/1695,Valady,12330,07/11/1719,Valady,12330,,,,Pas d'acte de décès
+A,195,Boisset,Marie,Féminin,10/10/1689,Panat,12430,07/11/1719,Valady,12330,,,,Pas d'acte de décès
+A,196,Cazottes,Jacques,Masculin,01/01/1683,Panat,12430,07/02/1714,Balsac,12510,25/10/1758,Panat,12430,
+A,197,Martin,Magdelaine,Féminin,04/09/1683,Balsac,12510,07/02/1714,Balsac,12510,30/11/1767,Panat,12430,
+A,198,Layrac,Antoine,Masculin,21/07/1685,La Capelle St Martin,12450,,,,06/06/1733,Flavin,12450,"Pas d'acte de mariage, avait 12 frères et sœurs"
+A,199,Sudré,Marie,Féminin,26/04/1696,Flavin,12450,,,,09/12/1731,Flavin,12450,Pas d'acte de mariage
+A,200,Aussibal,Antoine,Masculin,,,,,,,24/06/1741,St Christophe Vallon,12330,"Pas d'acte de naissance, ni mariage, 6 enfants"
+A,201,Caysac,Marie,Féminin,,,,,,,22/09/1747,St Christophe Vallon,12330,"Pas d'acte de naissance, ni mariage, 6 enfants"
+A,202,,,Masculin,,,,,,,,,#N/D,
+A,203,Rosieres,Cécile,Féminin,,,,,,,31/05/1768,St Christophe Vallon,12330,"Mère seule, pas d'acte de naissance"
+A,204,Aurejac,Jean,Masculin,08/02/1684,Glassac,12330,02/10/1708,Valady,12330,14/11/1760,Glassac,12330,
+A,205,Laplanie,Marie,Féminin,,,,02/10/1708,Valady,12330,14/05/1740,Glassac,12330,Pas d'acte de naissance
+A,206,Bouissou,Joseph,Masculin,06/08/1684,Bruejouls,12330,25/02/1721,St Christophe Vallon,12330,17/11/1764,St Christophe Vallon,12330,
+A,207,Segala,Jeanne,Féminin,,,,25/02/1721,St Christophe Vallon,12330,08/12/1770,St Christophe Vallon,12330,Pas d'acte de naissance
+A,208,Delphieux,Raymond,Masculin,,,,21/02/1708,Ste Austremoine,12330,11/10/1753,Ste Austremoine,12330,"Pas d'acte de naissance, a eu 7 enfants"
+A,209,Martin,Louise,Féminin,,,,21/02/1708,Ste Austremoine,12330,26/04/1743,Ste Austremoine,12330,"Pas d'acte de naissance, a eu 7 enfants"
+A,210,Palayret,Guillaume,Masculin,,,,25/09/1726,Marcillac,12330,23/02/1769,St Christophe Vallon,12330,"Pas d'acte de naissance, né avec un doigt de plus, vu comme un démon dans la paroisse"
+A,211,Bessoles,Louise,Féminin,03/08/1704,Marcillac,12330,25/09/1726,Marcillac,12330,08/05/1758,St Christophe Vallon,12330,
+A,212,Feral,Antoine,Masculin,,,,15/02/1735,Valady,12330,22/05/1755,St Christophe Vallon,12330,Pas d'acte de naissance
+A,213,Pouderous,Anne,Féminin,,,,15/02/1735,Valady,12330,21/05/1779,St Christophe Vallon,12330,Pas d'acte de naissance
+A,214,Portal,Antoine,Masculin,07/09/1706,Ste Austremoine,12330,06/09/1740,Ste Austremoine,12330,08/06/1784,Ste Austremoine,12330,
+A,215,Lalande,Marie,Féminin,13/11/1716,Ste Austremoine,12330,06/09/1740,Ste Austremoine,12330,22/11/1782,Ste Austremoine,12330,
+A,216,Babec,Léon,Masculin,13/08/1718,Ste Austremoine,12330,11/06/1748,St Christophe Vallon,12330,08/06/1797,St Christophe Vallon,12330,
+A,217,Ichié,Jeanne,Féminin,11/11/1723,St Christophe Vallon,12330,11/06/1748,St Christophe Vallon,12330,20/05/1778,St Christophe Vallon,12330,
+A,218,Bournhounesques,Antoine,Masculin,01/11/1729,St Christophe Vallon,12330,20/02/1754,St Christophe Vallon,12330,09/12/1796,St Christophe Vallon,12330,
+A,219,Aurejac,Françoise,Féminin,12/02/1730,St Christophe Vallon,12330,20/02/1754,St Christophe Vallon,12330,26/01/1768,St Christophe Vallon,12330,
+A,220,Gaffuer,Raymond,Masculin,11/07/1712,Bruejouls,12330,05/03/1753,Valady,12330,10/05/1786,Bruejouls,12330,2nd mariage (1747)
+A,221,Portal,Marie,Féminin,,,,05/03/1753,Valady,12330,15/11/1788,Bruejouls,12330,Pas d'acte de naissance
+A,222,Cuoc,Jacques,Masculin,20/06/1726,Bruejouls,12330,13/02/1748,Moyrazes,12160,28/09/1805,Clairvaux d Aveyron,12330,
+A,223,Sinchole,Magdelaine,Féminin,21/06/1726,Moyrazes,12160,13/02/1748,Moyrazes,12160,,,,Pas d'acte de décès
+A,224,Pradayrol,Jean,Masculin,,,,05/03/1737,St Maurice en Quercy,46120,02/07/1770,St Maurice en Quercy,46120,"Pas d'acte de naissance, s'est remarié ensuite (1746)"
+A,225,Bezy,Jeanne,Féminin,28/03/1708,Molieres,46120,05/03/1737,St Maurice en Quercy,46120,12/08/1743,St Maurice en Quercy,46120,
+A,226,Ricros,Pierre,Masculin,04/02/1692,Molieres,46120,22/06/1723,Molieres,46120,20/01/1748,Molieres,46120,S'est remarié ensuite (1743)
+A,227,Gauzin,Jeanne,Féminin,,,,22/06/1723,Molieres,46120,01/03/1740,Molieres,46120,Pas d'acte de naissance
+A,228,Pradayrol,Géraud,Masculin,,,,,,,21/10/1782,St Maurice en Quercy,46120,"Pas d'acte de naissance, ni mariage"
+A,229,Salesses,Jeanne,Féminin,26/08/1706,Lacapelle Marival,46120,,,,04/10/1749,St Maurice en Quercy,46120,"Pas d'acte de mariage, a eu 9 enfants"
+A,230,Cadieregues,Bernard,Masculin,,,,28/07/1723,Molieres,46120,15/03/1757,Molieres,46120,Pas d'acte de naissance
+A,231,Fau,Anne,Féminin,15/05/1695,Molieres,46120,28/07/1723,Molieres,46120,07/02/1778,Molieres,46120,
+A,232,Landes,André,Masculin,30/07/1683,Molieres,46120,07/09/1723,Molieres,46120,12/03/1741,Molieres,46120,
+A,233,Landes,Marguerite,Féminin,09/03/1708,Molieres,46120,07/09/1723,Molieres,46120,13/06/1786,Molieres,46120,15 ans au mariage avec un homme de 40 ans
+A,234,Verniere,Gabriel,Masculin,,,,17/08/1728,Terrou,46120,13/10/1767,Gorses,46210,"Pas d'acte de naissance, s'est remarié ensuite (1757)"
+A,235,Larive,Anne,Féminin,13/05/1701,Terrou,46120,17/08/1728,Terrou,46120,11/10/1753,Gorses,46210,
+A,236,Carrié,Géraud,Masculin,,,,08/05/1742,,,19/01/1777,St Maurice en Quercy,46120,"Pas d'acte de mariage, 2nd mariage (????), acte notarié pour le mariage, d’où le manque de commune"
+A,237,Barrié,Françoise,Féminin,,,,08/05/1742,,,24/03/1784,St Maurice en Quercy,46120,"Pas d'acte de mariage, acte notarié pour le mariage, d’où le manque de commune"
+A,238,Delprat,Jacques,Masculin,28/04/1701,St Médard de Presque,46400,14/04/1728,Aynac,46120,,,,"Pas d'acte de décès, a eu 11 enfants"
+A,239,Lalo,Marie,Féminin,10/01/1714,Aynac,46120,14/04/1728,Aynac,46120,07/11/1754,Aynac,46120,"a eu 11 enfants, mariage a 14 ans"
+A,240,Landes,Jean,Masculin,05/02/1713,Molieres,46120,12/07/1741,Molieres,46120,11/03/1782,Molieres,46120,a eu 10 enfants
+A,241,Castelet,Marie,Féminin,,,,12/07/1741,Molieres,46120,05/03/1793,Molieres,46120,"pas d'acte de naissance, a eu 10 enfants"
+A,242,Laborie,Joseph,Masculin,,,,15/06/1752,Sabadel Latronquiere,46210,24/04/1782,Bouxal,46210,Pas d'acte de naissance
+A,243,Melou,Antoinette,Féminin,,,,15/06/1752,Sabadel Latronquiere,46210,06/02/1800,Bouxal,46210,Pas d'acte de naissance
+A,244,Descargues,Joseph,Masculin,17/06/1717,St Médard Nicourby,46210,17/02/1746,Terrou,46120,29/02/1756,Terrou,46120,
+A,245,Chabert,Marguerite,Féminin,,,,17/02/1746,Terrou,46120,02/12/1788,Terrou,46120,"Pas d'acte de naissance, s'est remariée ensuite (1757)"
+A,246,Baylé,Jean Pierre,Masculin,,,,01/07/1755,Molieres,46120,18/12/1988,Molieres,46120,"Pas d'acte de naissance, a eu 11 enfants"
+A,247,Ricros,Marie,Féminin,03/11/1735,Molieres,46120,01/07/1755,Molieres,46120,05/12/1777,Molieres,46120,a eu 11 enfants
+A,248,Lafeuille,Jean,Masculin,,,,,,,,,,"Pas d'acte de naissance, de mariage ou de décès (connu par l'acte de mariage de A000124)"
+A,249,Roques,Anne,Féminin,,,,,,,16/09/1762,Prangeres,46500,"Pas d'acte de naissance, ni de mariage (connue par l'acte de mariage de A000124)"
+A,250,Brunet,Pierre,Masculin,,,,26/11/1755,Saignes,46500,03/01/1797,Rueyres,46120,Pas d'acte de naissance
+A,251,Lalo,Jeanne,Féminin,18/05/1725,Saignes,46500,26/11/1755,Saignes,46500,16/05/1766,Rueyres,46120,
+A,252,Cayre Castel,Louis,Masculin,22/08/1743,Bannes,46400,10/02/1764,Bannes,46400,07/04/1781,Bannes,46400,"a eu 9 enfants, Maitre Peintre de profession"
+A,253,Donnadieu,Toinette,Féminin,11/12/1740,Aynac,46120,10/02/1764,Bannes,46400,21/02/1802,St Vincent du Pendit,46400,"a eu 9 enfants, et avait 9 frères et sœurs"
+A,254,Lacaze,Pierre,Masculin,27/08/1730,Cornac,46130,21/07/1768,Cornac,46130,14/06/1793,Cornac,46130,2nd mariage (1754)
+A,255,Sirieys,Marie Jeanne,Féminin,05/01/1747,Cornac,46130,21/07/1768,Cornac,46130,22/07/1816,Cornac,46130,17 ans d'écart avec son mari
+A,256,Bétin,Jean,Masculin,17/01/1664,Champniers,86400,,,#N/D,,,,Pas d'acte de mariage ni de décès
+A,257,Chartier,Jeanne,Féminin,11/11/1665,Romagne,86700,,0,#N/D,18/11/1720,Champagne St Hilaire,86160,Pas d'acte de mariage
+A,258,Grimault,Alexandre,Masculin,,,,02/03/1699,Champagne St Hilaire,86160,,,,Pas d'acte de naissance ni de décès
+A,259,Nafrechou,Jeanne,Féminin,,,,02/03/1699,Champagne St Hilaire,86160,,,#N/D,Pas d'acte de naissance ni de décès
+A,260,Vécant,Claude,Masculin,05/04/1646,Vernon,86340,19/11/1674,Brion,86160,20/09/1728,Marnay,86160,
+A,261,Gastelier,Jeanne,Féminin,,,,19/11/1674,Brion,86160,05/10/1720,Champagne St Hilaire,86160,
+A,262,Faure,Jacques,Masculin,,,,,,,,,#N/D,"Pas d'acte de naissance, mariage ou décès"
+A,263,Suire,Magdelaine,Féminin,,,#N/D,0,0,#N/D,,,#N/D,"Pas d'acte de naissance, mariage ou décès"
+A,264,Sandillau,Jean,Masculin,20/10/1643,Andille,86340,11/09/1678,Andille,86340,,,#N/D,"Pas d'acte de décès, a eu 8 enfants"
+A,265,Barault,Claudine,Féminin,21/10/1660,Andille,86340,11/09/1678,Andille,86340,01/12/1714,Aslonnes,86340,a eu 8 enfants
+A,266,Genard,Antoine,Masculin,,,,,,#N/D,09/08/1716,Aslonnes,86340,Pas d'acte de naissance ni de mariage
+A,267,Chilloc,Louise,Féminin,27/07/1756,Aslonnes,86340,0,0,#N/D,11/10/1724,Aslonnes,86340,Pas d'acte de naissance ni de mariage
+A,268,Marsault,Pierre,Masculin,,,#N/D,,,#N/D,20/09/1706,Marnay,86160,Pas d'acte de naissance ni de mariage
+A,269,Bertrand,Louise,Féminin,,,#N/D,0,0,#N/D,02/11/1724,Marnay,86160,"Pas d'acte de naissance ni de mariage, s'est remariée ensuite (1707)"
+A,270,Chartier,François,Masculin,,,#N/D,,,#N/D,30/04/1705,Anche,86700,
+A,271,Bonnillault,Jeanne,Féminin,,,#N/D,0,0,#N/D,27/11/1705,Anche,86700,
+A,272,Gendreau,Jean,Masculin,,,#N/D,03/06/1726,Champagne le Sec,86510,04/12/1753,St Saviol,86400,
+A,273,Nau,Marie,Féminin,05/10/1699,Champagne Le Sec,86510,03/06/1726,Champagne le Sec,86510,02/05/1763,Champagne Le Sec,86510,
+A,274,Gayet,Jean,Masculin,,,,27/07/1718,Savigne,86400,25/10/1762,Savigne,86400,
+A,275,Barillet,Françoise,Féminin,,,,27/07/1718,Savigne,86400,12/01/1775,Savigne,86400,
+A,276,Bernardeau,Antoine,Masculin,01/11/1794,Blanzay,86400,20/05/1717,Blanzay,86400,22/09/1763,Blanzay,86400,S'est remarié ensuite (04/11/1760)
+A,277,Pasquier,Jeanne,Féminin,03/09/1687,Blanzay,86400,20/05/1717,Blanzay,86400,21/04/1760,Blanzay,86400,
+A,278,Pautrot,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,279,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,280,Chevalier,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,281,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,282,Sauvestre,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,283,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,284,Moreau,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,285,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,286,Lairaud,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,287,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,288,Debenest,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,289,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,290,Bonnin,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,291,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,292,Bouyer,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,293,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,294,Pissard,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,295,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,296,Vincent,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,297,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,298,Minereau,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,299,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,300,Monjouan,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,301,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,302,Pautrot,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,303,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,304,Bernard,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,305,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,306,De Souhent,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,307,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,308,Moreau,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,309,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,310,Landon,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,311,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,312,0,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,313,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,314,0,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,315,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,316,0,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,317,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,318,0,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,319,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,320,0,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,321,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,322,0,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,323,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,324,0,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,325,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,326,0,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,327,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,328,0,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,329,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,330,0,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,331,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,332,0,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,333,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,334,0,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,335,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,336,Roumy,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,337,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,338,Gautier,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,339,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,340,Main,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,341,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,342,Pouzé,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,343,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,344,Daugy,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,345,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,346,Bontemps,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,347,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,348,Chalmet,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,349,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,350,Teziere,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,351,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,352,L'Herbier,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,353,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,354,Grenetier,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,355,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,356,Boutard,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,357,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,358,Bled,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,359,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,360,Gandat,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,361,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,362,Protat,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,363,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,364,Auboussu,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,365,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,366,Deboux,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,367,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,368,Ragoux,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,369,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,370,Merisier,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,371,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,372,Larible,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,373,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,374,Canot,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,375,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,376,Bureau,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,377,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,378,Thomas,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,379,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,380,Renault,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,381,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,382,Jacquier,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,383,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,384,Sahuc,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,385,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,386,Gisard,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,387,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,388,Campredon,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,389,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,390,Boisset,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,391,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,392,Cazottes,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,393,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,394,Martin,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,395,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,396,Layrac,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,397,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,398,Sudré,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,399,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,400,Aussibal,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,401,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,402,Caysac,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,403,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,404,0,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,405,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,406,Rosieres,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,407,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,408,Aurejac,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,409,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,410,Laplanie,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,411,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,412,Bouissou,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,413,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,414,Segala,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,415,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,416,Delphieux,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,417,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,418,Martin,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,419,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,420,Palayret,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,421,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,422,Bessoles,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,423,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,424,Feral,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,425,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,426,Pouderous,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,427,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,428,Portal,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,429,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,430,Lalande,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,431,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,432,Babec,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,433,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,434,Ichié,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,435,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,436,Bournhounesques,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,437,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,438,Aurejac,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,439,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,440,Gaffuer,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,441,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,442,Portal,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,443,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,444,Cuoc,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,445,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,446,Sinchole,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,447,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,448,Pradayrol,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,449,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,450,Bezy,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,451,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,452,Ricros,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,453,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,454,Gauzin,,Masculin,,,#N/D,,,#N/D,,,#N/D,Le maire en 1985 (à peu près)  de Molieres est cousin via Gauzin et élévait des porcs en batterie
+A,455,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,456,Pradayrol,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,457,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,458,Salesses,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,459,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,460,Cadieregues,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,461,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,462,Fau,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,463,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,464,Landes,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,465,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,466,Landes,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,467,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,468,Verniere,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,469,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,470,Larive,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,471,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,472,Carrié,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,473,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,474,Barrié,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,475,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,476,Delprat,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,477,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,478,Lalo,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,479,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,480,Landes,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,481,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,482,Castelet,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,483,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,484,Laborie,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,485,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,486,Melou,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,487,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,488,Descargues,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,489,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,490,Chabert,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,491,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,492,Baylé,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,493,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,494,Ricros,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,495,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,496,Lafeuille,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,497,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,498,Roques,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,499,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,500,Brunet,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,501,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,502,Lalo,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,503,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,504,Cayre Castel,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,505,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,506,Donnadieu,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,507,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,508,Lacaze,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,509,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,510,Sirieys,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,511,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,512,Bétin,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,513,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,514,,,Masculin,,,,,,,,,,
+A,515,,,Féminin,,,,,,,,,,
+A,516,,,Masculin,,,,,,,,,,
+A,517,,,Féminin,,,,,,,,,,
+A,518,,,Masculin,,,,,,,,,,
+A,519,,,Féminin,,,,,,,,,,
+A,520,,,Masculin,,,,,,,,,,
+A,521,,,Féminin,,,,,,,,,,
+A,522,,,Masculin,,,,,,,,,,
+A,523,,,Féminin,,,,,,,,,,
+A,524,,,Masculin,,,,,,,,,,
+A,525,,,Féminin,,,,,,,,,,
+A,526,,,Masculin,,,,,,,,,,
+A,527,,,Féminin,,,,,,,,,,
+A,528,,,Masculin,,,,,,,,,,
+A,529,,,Féminin,,,,,,,,,,
+A,530,,,Masculin,,,,,,,,,,
+A,531,,,Féminin,,,,,,,,,,
+A,532,,,Masculin,,,,,,,,,,
+A,533,,,Féminin,,,,,,,,,,
+A,534,,,Masculin,,,,,,,,,,
+A,535,,,Féminin,,,,,,,,,,
+A,536,,,Masculin,,,,,,,,,,
+A,537,,,Féminin,,,,,,,,,,
+A,538,,,Masculin,,,,,,,,,,
+A,539,,,Féminin,,,,,,,,,,
+A,540,,,Masculin,,,,,,,,,,
+A,541,,,Féminin,,,,,,,,,,
+A,542,,,Masculin,,,,,,,,,,
+A,543,,,Féminin,,,,,,,,,,
+A,544,,,Masculin,,,,,,,,,,
+A,545,,,Féminin,,,,,,,,,,
+A,546,,,Masculin,,,,,,,,,,
+A,547,,,Féminin,,,,,,,,,,
+A,548,,,Masculin,,,,,,,,,,
+A,549,,,Féminin,,,,,,,,,,
+A,550,,,Masculin,,,,,,,,,,
+A,551,,,Féminin,,,,,,,,,,
+A,552,,,Masculin,,,,,,,,,,
+A,553,,,Féminin,,,,,,,,,,
+A,554,,,Masculin,,,,,,,,,,
+A,555,,,Féminin,,,,,,,,,,
+A,556,,,Masculin,,,,,,,,,,
+A,557,,,Féminin,,,,,,,,,,
+A,558,,,Masculin,,,,,,,,,,
+A,559,,,Féminin,,,,,,,,,,
+A,560,,,Masculin,,,,,,,,,,
+A,561,,,Féminin,,,,,,,,,,
+A,562,,,Masculin,,,,,,,,,,
+A,563,,,Féminin,,,,,,,,,,
+A,564,,,Masculin,,,,,,,,,,
+A,565,,,Féminin,,,,,,,,,,
+A,566,,,Masculin,,,,,,,,,,
+A,567,,,Féminin,,,,,,,,,,
+A,568,,,Masculin,,,,,,,,,,
+A,569,,,Féminin,,,,,,,,,,
+A,570,,,Masculin,,,,,,,,,,
+A,571,,,Féminin,,,,,,,,,,
+A,572,,,Masculin,,,,,,,,,,
+A,573,,,Féminin,,,,,,,,,,
+A,574,,,Masculin,,,,,,,,,,
+A,575,,,Féminin,,,,,,,,,,
+A,576,,,Masculin,,,,,,,,,,
+A,577,,,Féminin,,,,,,,,,,
+A,578,,,Masculin,,,,,,,,,,
+A,579,,,Féminin,,,,,,,,,,
+A,580,,,Masculin,,,,,,,,,,
+A,581,,,Féminin,,,,,,,,,,
+A,582,,,Masculin,,,,,,,,,,
+A,583,,,Féminin,,,,,,,,,,
+A,584,,,Masculin,,,,,,,,,,
+A,585,,,Féminin,,,,,,,,,,
+A,586,,,Masculin,,,,,,,,,,
+A,587,,,Féminin,,,,,,,,,,
+A,588,,,Masculin,,,,,,,,,,
+A,589,,,Féminin,,,,,,,,,,
+A,590,,,Masculin,,,,,,,,,,
+A,591,,,Féminin,,,,,,,,,,
+A,592,,,Masculin,,,,,,,,,,
+A,593,,,Féminin,,,,,,,,,,
+A,594,,,Masculin,,,,,,,,,,
+A,595,,,Féminin,,,,,,,,,,
+A,596,,,Masculin,,,,,,,,,,
+A,597,,,Féminin,,,,,,,,,,
+A,598,,,Masculin,,,,,,,,,,
+A,599,,,Féminin,,,,,,,,,,
+A,600,,,Masculin,,,,,,,,,,
+A,601,,,Féminin,,,,,,,,,,
+A,602,,,Masculin,,,,,,,,,,
+A,603,,,Féminin,,,,,,,,,,
+A,604,,,Masculin,,,,,,,,,,
+A,605,,,Féminin,,,,,,,,,,
+A,606,,,Masculin,,,,,,,,,,
+A,607,,,Féminin,,,,,,,,,,
+A,608,,,Masculin,,,,,,,,,,
+A,609,,,Féminin,,,,,,,,,,
+A,610,,,Masculin,,,,,,,,,,
+A,611,,,Féminin,,,,,,,,,,
+A,612,,,Masculin,,,,,,,,,,
+A,613,,,Féminin,,,,,,,,,,
+A,614,,,Masculin,,,,,,,,,,
+A,615,,,Féminin,,,,,,,,,,
+A,616,,,Masculin,,,,,,,,,,
+A,617,,,Féminin,,,,,,,,,,
+A,618,,,Masculin,,,,,,,,,,
+A,619,,,Féminin,,,,,,,,,,
+A,620,,,Masculin,,,,,,,,,,
+A,621,,,Féminin,,,,,,,,,,
+A,622,,,Masculin,,,,,,,,,,
+A,623,,,Féminin,,,,,,,,,,
+A,624,,,Masculin,,,,,,,,,,
+A,625,,,Féminin,,,,,,,,,,
+A,626,,,Masculin,,,,,,,,,,
+A,627,,,Féminin,,,,,,,,,,
+A,628,,,Masculin,,,,,,,,,,
+A,629,,,Féminin,,,,,,,,,,
+A,630,,,Masculin,,,,,,,,,,
+A,631,,,Féminin,,,,,,,,,,
+A,632,,,Masculin,,,,,,,,,,
+A,633,,,Féminin,,,,,,,,,,
+A,634,,,Masculin,,,,,,,,,,
+A,635,,,Féminin,,,,,,,,,,
+A,636,,,Masculin,,,,,,,,,,
+A,637,,,Féminin,,,,,,,,,,
+A,638,,,Masculin,,,,,,,,,,
+A,639,,,Féminin,,,,,,,,,,
+A,640,,,Masculin,,,,,,,,,,
+A,641,,,Féminin,,,,,,,,,,
+A,642,,,Masculin,,,,,,,,,,
+A,643,,,Féminin,,,,,,,,,,
+A,644,,,Masculin,,,,,,,,,,
+A,645,,,Féminin,,,,,,,,,,
+A,646,,,Masculin,,,,,,,,,,
+A,647,,,Féminin,,,,,,,,,,
+A,648,,,Masculin,,,,,,,,,,
+A,649,,,Féminin,,,,,,,,,,
+A,650,0,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,651,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,652,0,,Masculin,,,#N/D,,,#N/D,,,#N/D,
+A,653,,,Féminin,,,#N/D,0,0,#N/D,,,#N/D,
+A,654,0,,Masculin,,,#N/D,,,#N/D,,,#N/D,
